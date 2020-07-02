@@ -1,0 +1,45 @@
+.banner{
+
+	background: #343a40;
+
+
+}
+
+.form {
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.text{
+
+	padding: 100px;
+}
+
+.text h1{
+
+	font-size: 55px;
+}
+
+
+img{
+
+	max-width: 100%;
+}
+
+.logo img{
+
+	width:40px;
+}
+
+.icon img{
+
+	width: 120px;
+	text-align: center;
+}
+
+.area {
+    padding: 200px;
+    box-shadow: 0 0 2px grey;
+    text-align: center;
+}
